@@ -271,21 +271,22 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
-    font-family: "Lobster Two","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-    font-style: italic;
+    margin-bottom: 75px;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    font-style: bold;
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family: "Pacifico","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
-    font-weight: 700;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    font-weight: 200;
     line-height: 50px;
 }
 
@@ -296,19 +297,22 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: "Pacifico","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        margin-bottom: 100px;
+        font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 50px;
+        font-style: ;
+        line-height: 60px;
+
+
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        font-family: "Pacifico" ,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
+        font-family: "Montserrat" ,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 50px;
         font-weight: 700;
         line-height: 75px;
+
     }
 }
 
@@ -325,7 +329,7 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
@@ -481,8 +485,8 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
+    border: 7px solid #59E7BC;
+    border-radius: 75%;
     text-align: center;
     color: #fff;
     background-color: #00E09C;
