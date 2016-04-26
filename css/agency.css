@@ -259,7 +259,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/rainbow.jpeg);
+    background-image: url(../img/portfolio/5.jpeg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -297,7 +297,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 100px;
+        margin-bottom: 75px;
         font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 50px;
         font-style: ;
